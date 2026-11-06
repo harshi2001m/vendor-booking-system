@@ -1,0 +1,9 @@
+VENDOR_1704067500000|Elite Photography Studio|photographer|2500.00|john.photos@example.com
+VENDOR_1704067600000|Gourmet Catering Co|caterer|3000.00|info@gourmetcatering.com
+VENDOR_1704067700000|Floral Dreams Decorator|decorator|1500.00|flowers@floraldreams.com
+VENDOR_1704067800000|Candid Moments Photography|photographer|2000.00|contact@candidmoments.com
+VENDOR_1704067900000|Taste of Heaven Catering|caterer|2800.00|orders@tasteofheaven.com
+VENDOR_1704068000000|Elegant Events Decorator|decorator|2000.00|events@elegantdecorator.com
+VENDOR_1704068100000|Premium Wedding Photography|photographer|3500.00|premium@weddingphoto.com
+VENDOR_1704068200000|Royal Feast Catering|caterer|3500.00|booking@royalfeast.com
+VENDOR_1704068300000|Bloom & Blossom Decorator|decorator|1800.00|bloom@floraldesign.com
